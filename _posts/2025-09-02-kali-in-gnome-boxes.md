@@ -7,7 +7,7 @@ description: Guide on installing Kali Linux in GNOME Boxes, setting up a shared 
 
 ## Boxes
 
-Gnome Boxes is a virtualization application like VMware, VirtualBox that used to access virtual systems. Under th hood it is running QEMU, KVM and libvert.
+Gnome Boxes is a virtualization application like VMware, VirtualBox that used to access virtual systems. Under the hood it is running QEMU, KVM and libvert.
 
 ## Preparation
 
@@ -110,4 +110,4 @@ Use the one liner `sudo apt-get update && sudo apt full-upgrade -y` to update th
 
 ### Snapshots management
 
-It is good to keep 2~3 snaphots for backup purposes in case the latest snapshots have unexpected issues, you have the ability to revert back to previous stable version.
+It is good to keep 2~3 snaphots for backup purposes in case the latest snapshot have unexpected issues, you have the ability to revert back to previous stable version.
